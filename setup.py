@@ -12,7 +12,7 @@ from setuptools import setup, Command
 # Package meta-data.
 NAME = 'white'
 DESCRIPTION = 'Black, but White instead (PEP8 line–lengths).'
-URL = 'https://github.com/kennethreitz/red'
+URL = 'https://github.com/kennethreitz/white'
 EMAIL = 'me@kennethreitz.org'
 AUTHOR = 'Kenneth Reitz'
 REQUIRES_PYTHON = '>=3.6.0'
